@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlumgh&langs_count=8)](https://github.com/yasermazlumgh/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yasermazlumgh)](https://github.com/yasermazlumgh/github-readme-stats)
 <!--
 **YaserMazlumGH/yasermazlumgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
