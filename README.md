@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1DA1F2?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
