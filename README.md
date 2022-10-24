@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-657786?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-657786?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https:/instagram.com/yasermazlum)](https:/instagram.com/yasermazlum)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-657786?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/yasermazlum)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-657786?style=flat-quare&labelColor=1DA1F2&logo=Blogger&logoColor=white&link=link)](link)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-657786?style=flat-quare&labelColor=1DA1F2&logo=Blogger&logoColor=white&link=link)](link)
