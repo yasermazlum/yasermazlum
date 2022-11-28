@@ -3,9 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlumgh&langs_count=8)
 
 
-**YaserMazlumGH/yasermazlumgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**YaserMazlumGH/yasermazlumgh** 
 
 - 🔭 I’m currently working on zubine, fastmenu
 - 🌱 I’m currently learning go/gin
