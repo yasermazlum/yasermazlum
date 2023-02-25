@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlum&langs_count=8)
 
 
-**YaserMazlumGH/yasermazlumgh** 
+**YaserMazlum/yasermazlum** 
 
 - 🔭 I’m currently working on zubine, fastmenu
 - 🌱 I’m currently learning go/gin
