@@ -5,7 +5,7 @@
 
 **YaserMazlum/yasermazlum** 
 
-- 🔭 I’m currently working on zubine, fastmenu
+- 🔭 I’m currently working on "wia, fastmenu"
 - 🌱 I’m currently learning go/gin
 - 💬 Ask me about yasermazlum@gmail.com
 - 📫 How to reach me yasermazlum@gmail.com
