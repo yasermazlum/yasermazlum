@@ -1,12 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasermazlum&show_icons=true)
+![Yaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasermazlum&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlum&langs_count=8)
 
 
 **YaserMazlum/yasermazlum** 
 
-- 🔭 I’m currently working on "wia, fastmenu"
-- 🌱 I’m currently learning go/gin
 - 💬 Ask me about yasermazlum@gmail.com
 - 📫 How to reach me yasermazlum@gmail.com
 
