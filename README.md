@@ -41,13 +41,15 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasermazlum&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlum&langs_count=8&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasermazlum&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasermazlum&langs_count=8&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasermazlum&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yasermazlum&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
+
+> 💡 Görseller yüklenmezse: bu, `github-readme-stats.vercel.app`'in ücretsiz paylaşımlı sunucusunun yoğunluktan kaynaklı geçici hatasıdır (Vercel serverless fonksiyon limiti). Birkaç dakika sonra sayfayı yenilemek genelde çözer. Kalıcı çözüm için kendi ücretsiz Vercel hesabına [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) reposunu deploy edip URL'yi kendi domain'inle değiştirebilirsin.
 
 <br>
 
